@@ -18,7 +18,7 @@ My tools for Beautification are:
  - Ionic React :dash:
  - Anything it takes to get the Job done :hammer:
 
-Do not Invade the repositiories. For therein is contained stashes and batches of half written projects.
+Do not Invade the repositiories. For therein lies stashes and batches of half written projects.
 
 ### 💬 Ask me about 
 -  Music 
