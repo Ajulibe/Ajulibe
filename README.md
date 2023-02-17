@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ## Welcome to my World!
-I am a Frontend Developer currently based in Paris, France.
+I am a Software Engineer currently based in Paris.
 
 ### Quote
 > Chop life make life no Chop you.
