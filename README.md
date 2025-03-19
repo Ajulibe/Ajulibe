@@ -49,12 +49,12 @@ Every so often, I find myself **pensive about altered scales and impossible inte
 | **Blue Online TV** | Multi-language video on demand platform | React, i18next, Node.js | [BlueOnlineTV](https://claid.ai](https://www.blueonline.tv/)) |
 | **Squad Fintech** | Fintech payment gateway | Next.js, React Query, Redux | [Squad Fintech](https://squadco.com/) |
 
-### 🎨 **Side Missionss**
+### 🎨 **Side Missions**
 | Project | Description | Tech Stack | Link |
 |---------|------------|------------|------|
 | **Pocket Lawyer** | application for matching lawyers and clients | GlueStack, React Native, Expo, Typescript | [GitHub Repo](https://github.com/Ajulibe/pocketlawyer-mobile-app) |
 | **Social Media backend Infra** | robust backend scaffold for a social media app | Express, Redis, MongoDB, BullMQ, Node.js, Typescript | [GitHub Repo](https://github.com/Ajulibe/Express-backend-with-decorators) |
-| **Cats have Feelings too** | mood Tracker | React, React Query, TanStack Table, Typescript | [GitHub Repo](https://cute-mood-tracker.vercel.app/) |
+| **Cats have Feelings too** | mood Tracker | React, Typescript | [GitHub Repo](https://cute-mood-tracker.vercel.app/) |
 | **Not Netflix** | movie DB | React, typescript | [GitHub Repo](https://github.com/Ajulibe/WatchFlix) |
 | **Ticker Indicator** | A dashboard showing relevant exchange market data for symbol pairs | React, React Query, TanStack Table, Typescript | [GitHub Repo](https://github.com/Ajulibe/market-data) |
 | **Loan-Prediction** | A ML based website which predicts if user will return the loan or not | Python, Streamlit, FastAPI, Joblibs, sk-learn | [GitHub Repo](https://github.com/Ajulibe/python-model) |
